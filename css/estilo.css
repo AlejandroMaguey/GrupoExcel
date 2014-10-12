@@ -1,0 +1,152 @@
+.curso-header {
+  margin-top: 30px;
+  background-color: #fff;
+  padding: 20px;
+  -webkit-border-radius: 5px 5px 0px 0px;
+  -moz-border-radius: 5px 5px 0px 0px;
+  border-radius: 5px 5px 0px 0px; }
+
+.curso-footer {
+  margin-bottom: 30px;
+  background: #F9FAFA;
+  border-top: 1px solid #E6EAED;
+  border-bottom: 1px solid #E6EAED;
+  -webkit-border-radius: 0px 0px 5px 5px;
+  -moz-border-radius: 0px 0px 5px 5px;
+  border-radius: 0px 0px 5px 5px;
+  box-shadow: 0 4px 0 0 #E0E0E0; }
+  .curso-footer a {
+    margin-left: 20px;
+    margin-top: 20px; }
+
+.primary {
+  box-shadow: 0 4px 0 0 #2691B1; }
+  .primary h4 {
+    color: #fff; }
+  .primary:hover {
+    box-shadow: 0 4px 0 0 #1D7088; }
+
+.highlight {
+  background-color: #2D3339;
+  padding: 100px 0; }
+  .highlight h2, .highlight h4 {
+    color: #fff; }
+  .highlight img {
+    margin: 20px 0; }
+
+.top-bar, .contain-to-grid, .name, .top-bar-section ul li > a, .top-bar-section ul li {
+  font-size: 18px;
+  color: #CCCCCC; }
+  .top-bar:hover, .top-bar:active, .contain-to-grid:hover, .contain-to-grid:active, .name:hover, .name:active, .top-bar-section ul li > a:hover, .top-bar-section ul li > a:active, .top-bar-section ul li:hover, .top-bar-section ul li:active {
+    color: #fff; }
+
+.header {
+  padding-bottom: 190px;
+  border-bottom: 2px solid #454F55; }
+
+.inicio-bg {
+  background-image: url("../img/inicio-bg.png"); }
+
+.cursos-bg {
+  background-image: url("../img/cursos-bg.png"); }
+
+.nosotros-bg {
+  background-image: url("../img/nosotros-bg.png"); }
+
+.stardust {
+  background-image: url("../img/stardust.png"); }
+  .stardust h2, .stardust h1, .stardust h3, .stardust h4, .stardust p {
+    color: #fff; }
+
+.contacto-bg {
+  background-image: url("../img/contacto-bg.png"); }
+  .contacto-bg .inner h2, .contacto-bg .inner h3 {
+    color: initial; }
+
+.inner {
+  padding-top: 190px; }
+  .inner h2 {
+    color: #fff; }
+
+.content {
+  padding: 80px 0; }
+
+.blue {
+  background: #EDEFF0; }
+
+.footer {
+  margin-bottom: -20px;
+  background: #29282C;
+  color: #fff;
+  padding: 35px; }
+
+img {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px; }
+  img.quote-img {
+    margin-left: 35px;
+    border-radius: 50%;
+    display: inline-block; }
+
+#prod {
+  height: 200px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px; }
+
+.autor {
+  display: inline-block;
+  color: #2BA6CB; }
+
+.green {
+  background: #5FCF80;
+  box-shadow: 0 4px 0 0 #53B570; }
+  .green:hover {
+    background: #53B570;
+    box-shadow: 0 4px 0 0 #489C60; }
+  .green h3 {
+    color: #fff; }
+
+.quote {
+  position: relative;
+  width: 300px;
+  height: 100px;
+  padding: 10px 0 5px 25px;
+  background: #F6F9FA;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  border-bottom: 3px solid #DCE8ED;
+  border-right: 3px solid #DCE8ED; }
+  .quote a {
+    color: #7D8690; }
+  .quote:after {
+    content: "";
+    position: absolute;
+    bottom: -15px;
+    left: 40px;
+    border-style: solid;
+    border-width: 15px 15px 0;
+    border-color: #DCE8ED transparent;
+    display: block;
+    width: 0px;
+    z-index: 1; }
+
+.contain-to-grid {
+  padding: 15px 0; }
+
+.text-center img {
+  margin: 4%; }
+
+fieldset {
+  background-color: #fff;
+  max-width: 450px;
+  margin: 0 auto;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px; }
+  fieldset h1, fieldset h2, fieldset h3, fieldset p {
+    color: initial; }
+
+/*# sourceMappingURL=estilo.css.map */

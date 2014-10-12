@@ -1,0 +1,279 @@
+/*.header
+{	
+	background-color: #59666F;
+	background-image: url('../img/dark.png'); 
+	padding: 0 0 190px 0;
+	border-bottom: 2px solid #454F55;
+}*/
+/*.cursos-header
+{
+	background-image:url('../img/ilusion.png');
+	padding: 0 0 190px 0;
+	border-bottom: 2px solid #454F55;
+}
+.nosotros-header
+{
+	background-image:url('../img/esche.png');
+	padding: 0 0 190px 0;
+	border-bottom: 2px solid #454F55;
+}
+.contacto-header
+{
+	background-image:url('../img/stardust.png');
+	padding: 0 0 190px 0;
+	border-bottom: 2px solid #454F55;	
+}*/
+/*fieldset
+{
+	background-color: #fff;
+	max-width: 450px;
+	margin:0 auto;
+	-webkit-border-radius: 3px;
+}*/
+
+
+/*.inner-header, .inner-cursos-header, .inner-nosotros-header, .inner-contacto-header
+{
+	padding-top: 190px;
+}*/
+/*.nosotros-header h2
+{
+	color:#fff;
+}*/
+/*.cursos-panel
+{
+	padding:80px 0;
+	background: #EDEFF0;
+}*/
+/*.curso-header
+{
+	background-color: #fff;
+	padding:20px;
+	-webkit-border-radius: 5px 5px 0px 0px;
+
+
+}
+.curso-footer
+{
+	background: #F9FAFA;
+	border-top: 1px solid #E6EAED;
+	border-bottom: 1px solid #E6EAED;
+	-webkit-border-radius: 0px 0px 5px 5px;
+	-webkit-box-shadow:0 4px 0 0 #E0E0E0;
+
+}*/
+/*.donde, .complace
+{
+	background-color: #2D3339;
+	padding:100px 0;
+}*/
+/*.donde h2, .donde h4, .complace h2
+{
+	color:#fff;
+}*/
+/*.donde img, .complace img
+{
+	margin:20px 0;
+}*/
+/*.curso-footer a
+{
+	margin-left: 20px;
+	margin-top: 20px;
+}*/
+/*.curso-footer .button
+{
+	-webkit-box-shadow:0 4px 0 0 #2691B1;
+}
+.curso-footer .button:hover
+{
+	-webkit-box-shadow:0 4px 0 0 #1D7088;
+}*/
+/*.curso
+{
+	-webkit-border-radius: 3px; 
+	margin: 30px 0;
+}*/
+/*html, body{
+	width: 100%;
+*/}
+
+/*.header h2, .cursos-header h2, .cursos-header h3, .curso-footer h4
+{
+	color: #fff;
+}*/
+/*.top-bar, .contain-to-grid, .name, .top-bar-section ul li>a, .top-bar-section ul li
+{
+	background-color: transparent !important;
+	font-size: 18px;
+	color:#CCCCCC;
+}
+.top-bar-section ul li>a:hover,.top-bar-section ul li>a.active
+{
+	color:#fff;
+}*/
+/*.contain-to-grid
+{
+	padding:15px 0 ;
+	
+}*/
+/*.queremos, .pensamos
+{
+	padding:80px 0;
+}*/
+/*.quienes
+{
+	background: #EDEFF0;
+	padding: 80px 0;	
+}*/
+/*.cursos
+{
+	background: #EDEFF0;
+	padding: 80px 0;
+}*/
+/*.cursos-conoce
+{
+	padding: 80px 0;
+}*/
+/*.nosotros
+{
+	margin: 80px 0;
+	
+}*/
+/*.comienza
+{
+	padding: 80px;
+	background: #F6F9FA;
+	border-bottom: 3px solid #DCE8ED;
+}*/
+/*.testimonios
+{
+	background: #F6F9FA;
+	padding-top: 60px ;
+	padding-bottom: 80px;
+	border-bottom: 1px solid #DCE8ED;
+}*/
+/*.citas
+{
+	margin:60px 0;
+}*/
+/*.exito
+{
+
+	padding: 80px;
+	background: #FBFCFC;
+	background-image: url('../img/stardust.png');
+
+}*/
+/*.expertos
+{
+	margin: 100px 0;
+}*/
+/*.exito h2, .exito h3
+{
+	color:#fff;
+}
+.exito a
+{
+	margin: 20px 0;
+}*/
+/*.footer
+{
+	margin-bottom: -20px;
+	background: #29282C;	
+	color:#fff;
+	padding:40px;
+}*/
+/*.important
+{
+	padding: 80px;
+	
+}*/
+
+/*.important img
+{
+	margin-left: 8%;
+}*/
+/*.confian
+{
+	margin: 0 auto;
+}
+*/
+/*.quote 
+{
+	position: relative;
+	width: 300px;
+	height: 100px;
+	padding: 10px 0 5px 25px;
+	background: #F6F9FA;
+	-webkit-border-radius: 5px ;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border-bottom: 3px solid #DCE8ED;
+	border-right: 3px solid #DCE8ED;
+}*/
+/*.quote a
+{
+	color: #7D8690;
+}*/
+
+/*.quote:after 
+{
+	content: "";
+	position: absolute;
+	bottom: -15px;
+	left: 40px;
+	border-style: solid;
+	border-width: 15px 15px 0;
+	border-color: #DCE8ED transparent;
+	display: block;
+	width: 0px;
+	z-index: 1;
+}*/
+/*.quote-autor
+{
+	margin-left: 8%;
+	border-radius: 50%;
+	display: inline-block;
+
+}*/
+/*.autor
+{
+	display: inline-block;
+	color: #2BA6CB;
+}*/
+/*.empresas
+{
+	padding-top: 30px;
+}*/
+
+/*.green
+{
+	background: #5FCF80;
+	-webkit-box-shadow:0 4px 0 0 #53B570;
+	
+}
+.green:hover
+{
+	background: #53B570;
+	-webkit-box-shadow:0 4px 0 0 #489C60;
+}*/
+/*a h3
+{
+	color:#fff;
+}*/
+
+
+@media only screen and (max-width: 40em) { 
+	.empresas img
+	{
+		margin: 10px 0;
+	}
+	.testimonios .row
+	{
+		padding-left: 15%;
+	}
+	.testimonios .small-12
+	{
+		margin: 35px 0;
+	}
+}
