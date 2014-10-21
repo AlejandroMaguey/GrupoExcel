@@ -1,3 +1,4 @@
+$water-blue: #00BCFF;
 @mixin image($img) {
     .#{$img} {
         background-image: url("../img/#{$img}.png");
@@ -68,8 +69,17 @@
     color: #CCCCCC;
     &:hover, &:active {
         color: #fff;
+        
     }
 }
+.top-bar-section ul li > a{
+    &:hover{
+    height:100% !important;   
+    background: $water-blue !important;
+        
+    }
+}
+
 
 .header {
     padding-bottom: 190px;
